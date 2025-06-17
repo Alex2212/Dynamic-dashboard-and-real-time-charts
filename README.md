@@ -51,3 +51,4 @@ export default tseslint.config({
 # App UI Demo
 
 ![App UI Demo](./demo.png)
+- Draggable and resizable chart pannels within dashboard container window.
